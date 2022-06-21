@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🚀
+
+Grinding Javascript / Java / Kotlin
 
 <!--
 **LoxiasMegalos/LoxiasMegalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
