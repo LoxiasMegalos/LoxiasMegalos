@@ -18,6 +18,8 @@ Grinding Java / Kotlin
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> 
 </div>
 
-### snake eating my contributions
-
+<div align="center">
 ![snake gif](https://github.com/LoxiasMegalos/LoxiasMegalos/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
