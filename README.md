@@ -1,6 +1,6 @@
 ### Hi there 🚀
 
-Grinding Java / Kotlin
+Grinding C# 
 
 <!-- <div align="center">
   <a href="https://github.com/LoxiasMegalos">
