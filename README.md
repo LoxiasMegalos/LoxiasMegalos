@@ -1,6 +1,6 @@
 ### Hi there 🚀
 
-Grinding C# 
+Grinding Java / C# 
 
 <!-- <div align="center">
   <a href="https://github.com/LoxiasMegalos">
